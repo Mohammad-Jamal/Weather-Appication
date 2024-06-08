@@ -11,7 +11,7 @@ WeatherWiz is a dynamic weather application built with JavaScript. It provides a
 
 ## Demo
 
-[Live Demo](#) - Link to your deployed project
+[Live Demo](https://mohammad-jamal.github.io/Weather-Appication/) - Link to your deployed project
 
 
 ## Technologies Used
@@ -26,4 +26,4 @@ WeatherWiz is a dynamic weather application built with JavaScript. It provides a
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Mohammad-Jamal/Weather-Appication/]
+   git clone https://github.com/Mohammad-Jamal/Weather-Appication/
